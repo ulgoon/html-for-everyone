@@ -23,7 +23,7 @@ footer : KB Card x Fastcampus, Wooyoung Choi, 2018
 ## Notice
 - 수업의 난이도는 문과생도 이해할 수 있을 정도로 쉽게 진행할 예정입니다.
 - 50분 수업, 10분 휴식
-- 점심시간: 12시 ~ 1시 
+- 점심시간: 1시 ~ 2시 
 - https://github.com/ulgoon/html-for-everyone 에서 슬라이드와 수업에 필요한 자료를 다운로드 받을 수 있습니다.
 - https://www.codepen.io/ 에서 기본적인 실습을 진행합니다.
 - 브라우저는 Google Chrome!
