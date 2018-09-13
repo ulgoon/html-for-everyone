@@ -14,13 +14,6 @@ footer : KB Card x Fastcampus, Wooyoung Choi, 2018
 - Computational Thinking
 - HTML
 - CSS
-- BootStrap
-
----
-## Recap Project
-- HTML, CSS, Bootstrap을 활용해 카드 상세페이지 만들어보기
-- Layout, Style, Grid는 모두 자유!
-- 똑같이 만들어도 좋아요^^
 
 ---
 ## javaScript
