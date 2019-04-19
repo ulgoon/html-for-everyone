@@ -19,7 +19,32 @@ https://fastcampus.formstack.com/forms/kbcard_submit_pro
 	- javaScript
 - 마무리
 
+---
+# Module 1 과제
+과제 시간 16:50 ~ 17:50
+
+## Submission
+https://fastcampus.formstack.com/forms/kbcard_submit_pro
+
+## 파일이름
+KB프로그래밍3_과제2_홍길동.html
+
+2. Bootstrap을 적용하여 layout 및 grid을 구성하고, 카드소개 페이지를 작성하세요.
+
+- container
+- jumbotron, carousel 중 1개
+- 2개의 row
+- 4개 이상의 column
+
+3. 5가지 이상의 HTML tag에 대해 스타일을 지정하여 위의 페이지를 꾸며주세요. 다음 나열된 CSS 속성은 꼭 활용하셔야 합니다.
+(in-line style 혹은 internal style 적용)
+- margin, padding
+- color, background-color
+- font-size, font-family
+- width, height
+
+
+
 ## Contact Info
-- Symflow(https://ulgoon89.symflow.com/)
 - email: me@ulgoon.com
 
