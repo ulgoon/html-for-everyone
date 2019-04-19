@@ -37,7 +37,7 @@ KB프로그래밍3_과제2_홍길동.html
 - 4개 이상의 column
 
 3. 5가지 이상의 HTML tag에 대해 스타일을 지정하여 위의 페이지를 꾸며주세요. 다음 나열된 CSS 속성은 꼭 활용하셔야 합니다.
-(in-line style 혹은 internal style 적용)
+(in-line style`<div style="{{ CSS style }}">` 혹은 internal style`<style>{{ CSS style }}</style>` 적용)
 - margin, padding
 - color, background-color
 - font-size, font-family
