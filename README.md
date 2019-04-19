@@ -41,7 +41,7 @@ KB프로그래밍3_과제2_홍길동.html
 - margin, padding
 - color, background-color
 - font-size, font-family
-- width, height
+- height
 
 ### 참고자료
 - Bootstrap
