@@ -43,7 +43,20 @@ KB프로그래밍3_과제2_홍길동.html
 - font-size, font-family
 - width, height
 
+- Bootstrap
 
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+https://getbootstrap.com/docs/4.3/layout/grid/
+https://getbootstrap.com/docs/4.3/components/carousel/
+https://getbootstrap.com/docs/4.3/components/jumbotron/
+
+- Free image: pexels
+
+https://www.pexels.com/
+
+- google fonts
+
+https://fonts.google.com/
 
 ## Contact Info
 - email: me@ulgoon.com
