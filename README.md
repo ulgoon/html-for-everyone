@@ -6,6 +6,9 @@ Web-dev for Everyone
 - Google Chrome(https://www.google.com/chrome/)
 - Sublime Text(https://www.sublimetext.com/)
 
+## Submission
+https://fastcampus.formstack.com/forms/kbcard_submit_pro
+
 ## Curriculum
 - 프로그래밍 Warm-up
 	- 컴퓨터와 프로그래밍
